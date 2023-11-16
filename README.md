@@ -1,7 +1,8 @@
 # DotNetCoreApiMsTest
 This sample solution demonstrates how we can use MS Test in a .NET API project.
 
-### Original content posting: https://www.codeproject.com/Articles/1197462/Using-MS-Test-with-NET-Core-API
+### Original content posting: 
+https://www.codeproject.com/Articles/1197462/Using-MS-Test-with-NET-Core-API
 
 Writing unit test cases for your .NET Core API is easy with MS Test. This sample application demostrates how you can create a test project to test your API.
 For this sample project, I have used Autofac DI, Dapper ORM and Serilog for logging.
